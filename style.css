@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 50px 0px;
+    box-sizing: border-box;
+}
+.container{
+    border: 3px solid darkblue;
+    height: 500px;
+    width: 9a0%;
+    margin: auto;
+    box-sizing: border-box;
+}
+#pic-box{
+    float: left;
+    width:40%;
+	height:300px;
+	/* border:1px solid #000; */
+	margin:100px 5px;
+	position:relative;
+    background-size:75%;
+	background-image:url(./kız\ kulesi.jpg);
+	background-repeat: no-repeat;
+	background-position:center;   
+    box-sizing: border-box;
+}
+#text-box{
+    /* border: 1px solid cornflowerblue; */
+    float:right;
+	width:45%;
+	color black;
+	padding:5px 30px 5px 0px;
+	box-sizing: border-box;
+    margin: 10px 100px 100px 0px;  
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: oblique; 
+    text-align: justify; 
+    text-indent: 30px;
+    position:relative;
+   
+}
+h2{
+    text-align: center;
+    color: red;
+}
